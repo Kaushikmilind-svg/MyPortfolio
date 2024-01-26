@@ -2,7 +2,7 @@
 
 Hello there! I'm Milind Kaushik, Currently pursuing my degree in B.Tech at Galgotias university.
 
-This is my first project on github i.e, My Portfolio.
+This is my first Web Dev project on github i.e, My Portfolio.
 
 
  
